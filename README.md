@@ -1,5 +1,4 @@
 # Multivariate-Multiple-Regression-Using-Python
-# Multivariate Multiple Regression Analysis
 
 ## Introduction
 This repository demonstrates the application of multivariate multiple regression analysis, a statistical technique used to examine relationships between multiple independent variables and two or more dependent variables simultaneously.
